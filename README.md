@@ -14,6 +14,10 @@ The script only runs in ToLiss Airbuses: A319, A320neo, A321 (ceo/neo/LR/XLR), A
 - FlyWithLua NG (or NG+)
 - Brunner rudder pedals with SimUX
 
+## Download
+
+Download [Brunner_ToLiss_Pedals_v1.0.zip](Brunner_ToLiss_Pedals_v1.0.zip) (click it, then the download button), or copy `brunner_toliss_pedals.lua` directly from this page.
+
 ## Installation
 
 1. Copy `brunner_toliss_pedals.lua` into:
